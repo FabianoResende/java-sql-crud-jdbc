@@ -1,5 +1,5 @@
 📌 Projeto Java + SQLite — Sistema de Tarefas (CRUD Completo)
-https://img.shields.io/badge/Java-17+-red
+https://img.shields.io/badge/Java-17%2B-red
 https://img.shields.io/badge/SQLite-JDBC-blue
 https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen
 https://img.shields.io/badge/Licen%C3%A7a-Livre-lightgrey
