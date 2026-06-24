@@ -51,3 +51,13 @@ java-sql-crud-jdbc/
 │   └── Main.java            # Ponto de entrada da aplicação
 ├── database.db              # Banco SQLite
 └── README.md                # Documentação
+
+
+```
+
+## 👨‍💻 Autor  
+**Fabiano Faria de Resende**  
+Estagiário de Engenharia de IA Front‑end — FlyRank (Jul/2026)  
+GitHub: https://github.com/FabianoResende  
+LinkedIn: https://www.linkedin.com/in/fabianofr/
+
