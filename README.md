@@ -1,7 +1,7 @@
 # ☕ Java + SQLite — CRUD com JDBC (Arquitetura DAO)
 
 Aplicação Java desenvolvida com **JDBC**, **SQLite** e arquitetura **DAO**, implementando operações completas de CRUD (Create, Read, Update, Delete).  
-Projeto criado como parte da minha evolução em desenvolvimento Back‑end e preparação para o estágio de **Engenharia de IA Front‑end — FlyRank (Jul/2026)**.
+Projeto criado como parte da minha evolução em desenvolvimento Back‑end e preparação para o estágio de **Engenharia de IA — FlyRank**.
 
 ---
 
@@ -57,7 +57,7 @@ java-sql-crud-jdbc/
 
 ## 👨‍💻 Autor  
 **Fabiano Faria de Resende**  
-Estagiário de Engenharia de IA Front‑end — FlyRank (Jul/2026)  
+Estagiário de Engenharia de IA — FlyRank  
 GitHub: https://github.com/FabianoResende  
 LinkedIn: https://www.linkedin.com/in/fabianofr/
 
